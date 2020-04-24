@@ -10,7 +10,7 @@
 
 #### Problem Statement
 ##### r/androidgaming vs r/iosgaming
-There is a constant divide between availability of ios games vs android gaming, however, there is a larger overlap of games that support both systems. Our game development company is, unfortunately, unable to develop for both platforms. As an independant company, we'd like to focus on community culture and release our game for that community first. However, we've found gamers are polarizing in hardware, software, and company support. We'd like to release to the community that appeals to our culture first, but plan for release to the other market.
+There is a constant divide between availability of ios games vs android gaming, however, there is a larger overlap of games that support both systems. Our game development company is, unfortunately, unable to develop for both platforms. As an independent company, we'd like to focus on community culture and release our game for that community first. However, we've found gamers are polarizing in hardware, software, and company support. We'd like to release to the community that appeals to our culture first, but plan for release to the other market.
 
 
 We will look into posts from both subreddits to find trends and inferences that separate the two crowds. Once identified we can begin looking into methods and verbiage that identifies our target market without alienating the other.
@@ -79,9 +79,9 @@ We found both subreddits shared similar game interest, verbiage, and common post
 
 Using these parameters we can further explore common natural language trends.
 
-Android gaming(Google PlayStore included) entry requirements and game upkeep are much less demanding than Apple. Apple is nefarious for it's strict update reviews, game release filters, and family-appropriate approach to game-content (mostly).
+Android gaming(Google PlayStore included) entry requirements and game upkeep are much less demanding than Apple. Apple is nefarious for its strict update reviews, game release filters, and family-appropriate approach to game-content (mostly).
 
-Currently, our model will allow us to dive deeper into the language culture of each market. For now, app management, release requirements, and Apple's high-priced products that support ios is what attracts and detracts users. Android gaming, with its wide-range of hardware support, larger quantity of game releases (good and bad), and lax development release process opens us to: more players, easier development response time.
+Currently, our model will allow us to dive deeper into the language culture of each market. For now, app management, release requirements, and Apple's high-priced products that support iOS is what attracts and detracts users. Android gaming, with its wide-range of hardware support, larger quantity of game releases (good and bad), and lax development release process opens us to: more players, easier development response time.
 
 With more time and research, we will explore our model to align our advertising and community outreach with the brand and culture we are trying to establish with our first release.
 
